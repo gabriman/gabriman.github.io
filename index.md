@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Gabriman's github page.
+I will add some content in the future, right now it's just WIP
 
 You can use the [editor on GitHub](https://github.com/gabriman/gabriman.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
